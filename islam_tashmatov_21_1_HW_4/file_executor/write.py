@@ -1,0 +1,1 @@
+# внутри write будет функция write_to_file(file, body) - будет записывать body в файл file
